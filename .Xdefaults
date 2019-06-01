@@ -1,0 +1,6 @@
+URxvt*scrollBar: false
+URxvt*background: #232121
+URxvt*foreground: #FFFFFF
+URxvt*letterspace: -1
+URxvt*font:xft:SFMono-Regular:size=10
+URxvt*internalBorder: 25
